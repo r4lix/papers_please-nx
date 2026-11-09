@@ -1,4 +1,5 @@
 # papers_please-nx
+<img width="1750" height="731" alt="image" src="https://github.com/user-attachments/assets/10af71b2-4ffa-44c1-83af-0464032f2b07" />
 
 Papers, Please (Lucas Pope) running natively on the Nintendo Switch, built from the Steam PC version (Unity 2020.3, IL2CPP).
 
@@ -6,11 +7,11 @@ Papers, Please (Lucas Pope) running natively on the Nintendo Switch, built from 
 
 ## Disclaimer
 
-This project was created **entirely with the help of AI coding tools**. I am **not a developer**, so the code may contain bugs or unfinished features. Use it at your own risk, with no guarantee of support or updates.
+This Switch port was created **entirely with the help of AI coding tools**.
 
-## Takedown
+I am **not a developer**, so the code may contain bugs, security vulnerabilities, mistakes, or unfinished features. papers_please-nx is a personal project that I decided to share with others who may find it useful.
 
-The NRO contains the game's code translated to ARM64. If you are a right holder and want it removed, contact me (r4lix on GitHub) and I will take it down within 48 hours.
+Use it at your own risk. I cannot guarantee support, stability, compatibility, security, or regular updates.
 
 ## Install
 
@@ -26,3 +27,7 @@ A / ZR click, B / ZL right-click, X inspect, Y stamp bar, R toggle booth shutter
 ## Building
 
 `tools/build-lift.sh` / `tools/build-switch.sh` (devkitPro + python). The lifter (`tools/lift`) translates the x64 `GameAssembly.dll` of your own copy into C++. Notes in `RESUME.md`.
+
+## Takedown notice
+
+The NRO contains the game's code translated to ARM64. If you are a right holder and want it removed, contact me or open an issue and I will take it down within 48 hours.
