@@ -1,0 +1,12 @@
+/*
+!/.gitignore
+!/README.md
+!/RESUME.md
+!/icon.jpg
+!/src/
+!/tools/
+/tools/__pycache__/
+/tools/lift/__pycache__/
+/tools/vitapkg.py
+/tools/vita_reloc.py
+/tools/fself2elf.py

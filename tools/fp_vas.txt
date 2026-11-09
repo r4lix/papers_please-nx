@@ -1,0 +1,6 @@
+# guest VAs of lifted functions that src/host/fastpath.cpp may replace with native code
+0x1806845d0 haxe.zip.Uncompress.run
+0x18095d660 format.png.Tools.extract32
+0x1801ca450 play.day.booth.Booth.update (pad shortcut: shutter)
+0x180445e40 play.day.border.Border.update (pad shortcut: call next)
+0x180536a20 play.ui.CursorEnt.draw (hide cursor)
